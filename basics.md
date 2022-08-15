@@ -97,7 +97,8 @@ For further reference, please consider the following sections:
 
 <img width="1009" alt="image" src="https://user-images.githubusercontent.com/75510135/184753069-39517374-7688-4a82-adab-9cb31249dfdd.png">
 
-![Uploading image.png…]()
+<img width="1009" alt="image" src="https://user-images.githubusercontent.com/75510135/184753420-3ab8718b-e82a-4b09-ad19-e73c6757e96b.png">
+
 
 
 
