@@ -13,7 +13,10 @@ For further reference, please consider the following sections:
 * [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.7.2/maven-plugin/reference/html/#build-image)
 
 
-
+<details>
+<summary>Introduction</summary>
+<br>
+  
 ![](i/20220815120030.png)  
 
 ![](i/20220815120332.png)  
@@ -40,8 +43,13 @@ For further reference, please consider the following sections:
 
 ![](i/20220815121440.png)  
 ![](i/20220815121454.png)  
+</details>
 
+<details>
+<summary>MVC</summary>
+<br>
 
+  
 - Client - Server  model for request/response
 ![](i/20220815122328.png)  
 
@@ -98,6 +106,16 @@ For further reference, please consider the following sections:
 <img width="1009" alt="image" src="https://user-images.githubusercontent.com/75510135/184753069-39517374-7688-4a82-adab-9cb31249dfdd.png">
 
 <img width="1009" alt="image" src="https://user-images.githubusercontent.com/75510135/184753420-3ab8718b-e82a-4b09-ad19-e73c6757e96b.png">
+
+
+</details>
+
+<details>
+<summary>Reference links</summary>
+<br>
+
+</details>
+
 
 
 
