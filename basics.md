@@ -140,6 +140,33 @@ For further reference, please consider the following sections:
   
   <img width="1015" alt="image" src="https://user-images.githubusercontent.com/75510135/184823175-c2bac99c-6dcd-4d02-b66a-906031064a48.png">
 
+  - Thymleaf => to merge model into view
+  
+  <img width="1015" alt="image" src="https://user-images.githubusercontent.com/75510135/184824796-6a0669fb-2435-4152-9271-63ffbc2bc807.png">
+
+  <img width="1015" alt="image" src="https://user-images.githubusercontent.com/75510135/184824916-6db04adf-5a84-4fb3-af23-d8cb9295d803.png">
+
+  <img width="1015" alt="image" src="https://user-images.githubusercontent.com/75510135/184825065-9a03fbfd-596c-4203-8be8-16ccaa038cc9.png">
+
+  <img width="1015" alt="image" src="https://user-images.githubusercontent.com/75510135/184825200-66209d23-d861-4acd-b13b-6fe8da901e1c.png">
+
+  <img width="1015" alt="image" src="https://user-images.githubusercontent.com/75510135/184825272-062df160-22ae-4e4f-8a30-ddf3508f97e4.png">
+
+  <img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184825383-d33dfa29-b505-4fec-8a05-cc99618513c2.png">
+
+  - practically
+  <img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184825481-0b3e8f03-40a2-4e84-990e-2c1c5e5248d1.png">
+
+  <img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184825676-3a295b50-07a0-4974-b6e6-760ed3d82374.png">
+
+  <img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184825704-6c5f39f1-2877-494c-9caa-4d1053b76cb6.png">
+
+  <img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184825886-fd9fc024-5d3f-4663-ba4b-b28d5aaa3f3f.png">
+
+  <img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184826486-e8f49ffb-dcc8-40cc-98d1-d012677076f9.png">
+
+  <img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184826441-1b9dc440-529f-48ea-a63d-75c0e4bdcb35.png">
+
   
   
 </details>
