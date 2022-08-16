@@ -107,7 +107,41 @@ For further reference, please consider the following sections:
 
 <img width="1009" alt="image" src="https://user-images.githubusercontent.com/75510135/184753420-3ab8718b-e82a-4b09-ad19-e73c6757e96b.png">
 
+  - Model
+  <img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184817813-873ace07-9f93-4e6d-b9e2-e694906741b6.png">
 
+  <img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184818004-c6b0399f-8414-43b5-9fea-8a22f4e1fd6b.png">
+
+<img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184818242-dddc7e05-9d5d-4adf-9bdd-5c5a575f85db.png">
+  
+  - call model
+  <img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184818355-ba84af41-e8a7-4680-9821-eb35adaba01f.png">
+
+  <img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184819622-ff268cf8-f1d3-44f6-9068-861ec7695cee.png">
+
+  - create model class
+  <img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184819742-761af167-8d61-4396-a264-d51d99f2484c.png">
+
+  <img width="949" alt="image" src="https://user-images.githubusercontent.com/75510135/184819906-405e218c-333f-44d3-ad04-2be414868f19.png">
+
+  <img width="949" alt="image" src="https://user-images.githubusercontent.com/75510135/184820040-a85c3060-cfb5-4ff5-991d-4a4d89f989fb.png">
+
+  <img width="949" alt="image" src="https://user-images.githubusercontent.com/75510135/184820948-10ea4280-ffe6-48f8-baa8-ec18f8393133.png">
+
+  <img width="949" alt="image" src="https://user-images.githubusercontent.com/75510135/184821066-409850fd-b78b-43e8-a22a-8e5ac78a982b.png">
+
+  - add model attribute
+  <img width="949" alt="image" src="https://user-images.githubusercontent.com/75510135/184821260-2dd38616-6df8-45d1-bde9-3d8311e5e4d6.png">
+
+  <img width="949" alt="image" src="https://user-images.githubusercontent.com/75510135/184821350-3de420dc-da8c-4ac3-88db-78a56d430e24.png">
+
+  - Testing
+ <img width="1015" alt="image" src="https://user-images.githubusercontent.com/75510135/184822764-712721b4-76fe-4acb-9697-81b5e74fe9ca.png">
+  
+  <img width="1015" alt="image" src="https://user-images.githubusercontent.com/75510135/184823175-c2bac99c-6dcd-4d02-b66a-906031064a48.png">
+
+  
+  
 </details>
 
 <details>
@@ -117,7 +151,10 @@ For further reference, please consider the following sections:
   
 </details>
 
+- extension
+  <img width="949" alt="image" src="https://user-images.githubusercontent.com/75510135/184820138-0c750b63-df3b-426f-9e04-83824bd625ef.png">
 
+  
 
 
 
