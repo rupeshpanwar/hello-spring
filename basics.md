@@ -167,6 +167,12 @@ For further reference, please consider the following sections:
 
   <img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184826441-1b9dc440-529f-48ea-a63d-75c0e4bdcb35.png">
 
+  - selection
+  <img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184836195-eed94568-05be-49cb-8d78-41a20254ad54.png">
+
+  <img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184836300-3faecbbc-0fbb-4a41-9c76-8b4396edf99d.png">
+ <img width="923" alt="image" src="https://user-images.githubusercontent.com/75510135/184836724-8a8895ab-674a-435a-b12f-21c1d5780d84.png">
+
   
   
 </details>
