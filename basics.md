@@ -178,6 +178,26 @@ For further reference, please consider the following sections:
 </details>
 
 <details>
+<summary>Thymelead condition</summary>
+<br>
+
+  <img width="761" alt="image" src="https://user-images.githubusercontent.com/75510135/185034412-9a808d98-79a6-49d2-905c-75025a9b80c3.png">
+
+  
+  <img width="917" alt="image" src="https://user-images.githubusercontent.com/75510135/185034499-ec112365-9fce-4a44-8e78-51ecc1a88a27.png">
+
+  
+  
+</details>
+
+<details>
+<summary>Reference links</summary>
+<br>
+
+  
+</details>
+
+<details>
 <summary>Reference links</summary>
 <br>
 
