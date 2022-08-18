@@ -217,7 +217,7 @@ For further reference, please consider the following sections:
 - tools - https://spring.io/tools
 <img width="917" alt="image" src="https://user-images.githubusercontent.com/75510135/185040373-e0197b4e-39e9-4d96-b01f-a439077cd3f0.png">
 
-  
+- install mySQL and workbench - create database mydb
 
-
+- https://www.postman.com/downloads/
 
